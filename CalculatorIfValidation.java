@@ -8,6 +8,8 @@ import java.util.Scanner;
 public class CalculatorIfValidation {
     public static void main(String args[]){
         // input
+        // input
+        // input
         // prompt the user to specify the operation to be performed
         System.out.println("Choose operation");
         System.out.println("addition -- 1:");
